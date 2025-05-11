@@ -47,9 +47,11 @@ List the contents of the "MyLab" directory.
 cd %userprofile%\Desktop\MyLab
 ```
 
-![image](https://github.com/user-attachments/assets/eaa4321f-82d2-4e66-9290-2485fc15ad7f)
+![image](https://github.com/user-attachments/assets/3bc8006c-61e4-4675-8d5f-2ffd521cf2fb)
 
-![image](https://github.com/user-attachments/assets/158752d3-c581-4611-bab6-650261eb86df)
+
+![image](https://github.com/user-attachments/assets/9796391a-3dbb-466e-bf31-5eb596de117c)
+
 
 
 ## COMMAND AND OUTPUT
@@ -58,7 +60,8 @@ Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 ```
 dir %userprofile%\Desktop\MyLab
 ```
-![image](https://github.com/user-attachments/assets/860f84f3-95d2-436b-baf8-6030d12abdc7)
+![image](https://github.com/user-attachments/assets/de45b530-6cb9-4413-8b62-8295c39ae931)
+
 
 
 ## COMMAND AND OUTPUT
@@ -69,15 +72,18 @@ mkdir %userprofile%\Desktop\Backup
 
 copy MyFile.txt %userprofile%\Desktop\Backup
 ```
-![image](https://github.com/user-attachments/assets/f2866c36-b83a-47c3-abd9-ce3b627be001)
-![image](https://github.com/user-attachments/assets/92333dd8-2a9d-4319-b734-8f5010dafd5e)
+![image](https://github.com/user-attachments/assets/c924163f-eacb-43ab-86ba-d5eb2aa56436)
+
+![image](https://github.com/user-attachments/assets/eb7daec3-ab6b-4d1e-b025-889eb45168a1)
+
 
 
 ## COMMAND AND OUTPUT
 ```
 mv Myfile.txt %userprofile%\Documents
 ```
-![image](https://github.com/user-attachments/assets/f521b669-3e93-467b-adc0-f18b8b64493d)
+![image](https://github.com/user-attachments/assets/7161e5ae-4099-4f9a-89ee-bd5816b2be9c)
+
 
 
 
